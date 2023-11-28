@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(216, 214, 214);
+    
+}
+
+main{
+    background-color: rgb(186, 179, 179);
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+    padding-bottom: 80px;
+}
+div{
+    text-align: center;
+    
+}
+section{
+    text-align: center;
+}
+
+.div1 {
+    color:black;
+    background-color:rgb(222, 174, 246);
+    
+
+    width: 50px;
+    height: 50px;
+    margin: 0 4px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+
+}
+.div1:hover{
+    background-color: rgb(136, 132, 132);
+}
+#btn-c{
+    width: 190px;
+   
+
+}
+#btn-equal{
+    width: 120px;
+}
+input{
+    margin-bottom: 30px;
+    width: 185px;
+    height: 30px;
+    
+}
+.titulo{
+    color: deeppink;
+    text-align: center;
+}
+.div2{
+    width: 190px;
+}
+
+.btn-container{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+*{
+    font-size: 20px;
+}
